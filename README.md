@@ -6,3 +6,6 @@ First step: Computer clock
 
 ![IMG_20251123_164757](https://github.com/user-attachments/assets/5ea3ef56-3fe9-4132-90be-db2066297c94)
 
+![IMG_20251130_152106](https://github.com/user-attachments/assets/1f0e70e7-cd6b-4510-bf14-6c72ad86b126)
+
+
