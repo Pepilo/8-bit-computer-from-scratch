@@ -13,4 +13,8 @@ First step: Computer clock
 Second step: 8 bits memory
 ![IMG_20251214_152400](https://github.com/user-attachments/assets/55230b8b-679c-433b-a910-4d80642cb22b)
 
+![IMG_20251221_194056](https://github.com/user-attachments/assets/0e70e7e1-8de7-4b74-ab5f-c4ca66091539)
+
+
+
 
