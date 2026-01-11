@@ -15,6 +15,11 @@ Second step: 8 bits memory
 
 ![IMG_20251221_194056](https://github.com/user-attachments/assets/0e70e7e1-8de7-4b74-ab5f-c4ca66091539)
 
+Third step: ALU
+
+![IMG_20260111_154433](https://github.com/user-attachments/assets/8a0a1b83-5c17-4dd1-81aa-a951f6330e2d)
+
+
 
 
 
