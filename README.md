@@ -19,6 +19,9 @@ Third step: ALU
 
 ![IMG_20260111_154433](https://github.com/user-attachments/assets/8a0a1b83-5c17-4dd1-81aa-a951f6330e2d)
 
+![IMG_20260118_165912](https://github.com/user-attachments/assets/81d127c1-2add-4e14-bc1f-12efaa2d24d6)
+
+
 
 
 
