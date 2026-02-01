@@ -21,6 +21,11 @@ Third step: ALU
 
 ![IMG_20260118_165912](https://github.com/user-attachments/assets/81d127c1-2add-4e14-bc1f-12efaa2d24d6)
 
+Fourth step: RAM
+
+![IMG_20260201_203752](https://github.com/user-attachments/assets/6cac95f6-754e-4f4e-bbca-e65715d4a5d6)
+
+
 
 
 
