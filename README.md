@@ -8,7 +8,39 @@ First step: Computer clock
 
 ![IMG_20251130_152106](https://github.com/user-attachments/assets/1f0e70e7-cd6b-4510-bf14-6c72ad86b126)
 
+The following image shows the clock module of the 8-bit computer project built on a breadboard. The clock is responsible for generating the timing signal that synchronizes all registers and logic in the system.
+
+The circuit is based on two 555 timer ICs (NE555). One 555 is configured in astable mode, generating a continuous square wave clock signal. The clock frequency is adjustable using a potentiometer, allowing the computer to run slowly for debugging or faster for normal operation.
+
+The second 555 timer is used in monostable mode to generate a clean, debounced pulse for manual clock stepping. A pushbutton allows stepping the computer one clock cycle at a time, which is extremely useful for observing and debugging individual instruction cycles.
+
 ![IMG_20251207_001350](https://github.com/user-attachments/assets/d202d96a-89cf-4df4-a0dc-701c47402aee)
+
+A toggle switch selects between:
+
+- Automatic clock mode (continuous oscillation)
+
+- Manual step mode (one pulse per button press)
+
+The logic section includes:
+
+An inverter (74LS04)
+
+AND gates (74LS08)
+
+OR gates (74LS32)
+
+These logic gates condition the clock signal and combine it with control signals (such as halt) to ensure clean and properly synchronized clock pulses are sent to the rest of the computer.
+
+Two LEDs are used as visual indicators:
+
+One shows the main clock signal.
+
+The other indicates the inverted clock phase.
+
+Resistors and capacitors around the 555 timers define the timing characteristics and provide proper signal conditioning. The circuit is powered through the breadboard power rails, distributing 5V and ground across the board.
+
+This clock module is a critical foundation of the 8-bit computer, as every operation in the CPU depends on precise and reliable clock timing.
 
 Second step: 8 bits memory
 ![IMG_20251214_152400](https://github.com/user-attachments/assets/55230b8b-679c-433b-a910-4d80642cb22b)
