@@ -59,6 +59,8 @@ Fourth step: RAM
 
 ![IMG_20260201_203752](https://github.com/user-attachments/assets/6cac95f6-754e-4f4e-bbca-e65715d4a5d6)
 
+![IMG_20260329_151219](https://github.com/user-attachments/assets/394b5261-ed8f-4995-94aa-f9e3b86b0b3d)
+
 
 
 
