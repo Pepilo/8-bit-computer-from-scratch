@@ -105,12 +105,15 @@ The wiring between the breadboards distributes the operands, control signals (su
 This ALU module is a central component of the CPU. It enables the computer to perform arithmetic operations, which are essential for executing programs and processing data.
 
 # =========================
-# STEP 4 — ALU MODULE
+# STEP 4 — RAM MODULE - WORK IN PROGRESS
 # =========================
 
 ![IMG_20260201_203752](https://github.com/user-attachments/assets/6cac95f6-754e-4f4e-bbca-e65715d4a5d6)
 
 ![IMG_20260329_151219](https://github.com/user-attachments/assets/394b5261-ed8f-4995-94aa-f9e3b86b0b3d)
+
+![IMG_20260406_211625](https://github.com/user-attachments/assets/04d246c3-9f7d-4403-8b91-cf084562e56c)
+
 
 
 
