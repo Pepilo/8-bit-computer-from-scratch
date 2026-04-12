@@ -114,6 +114,9 @@ This ALU module is a central component of the CPU. It enables the computer to pe
 
 ![IMG_20260406_211625](https://github.com/user-attachments/assets/04d246c3-9f7d-4403-8b91-cf084562e56c)
 
+![IMG_20260412_162729](https://github.com/user-attachments/assets/57ebd433-3386-483e-8ca6-ac23faa4d01a)
+
+
 
 
 
